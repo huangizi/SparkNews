@@ -38,4 +38,5 @@ public class WeblogSocket {
     public void onClose () {
         System.out.println("Connection closed");
     }
+    //用来测试test
 }
